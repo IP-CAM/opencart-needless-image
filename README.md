@@ -1,2 +1,2 @@
 # opencart-needless-image
-Needless Image for Opencart
+Opencart module that helps you to delete unused images from your store.
